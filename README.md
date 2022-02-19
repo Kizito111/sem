@@ -1,2 +1,2 @@
 Welcome to seMethods by Kizito <br>
-Progress for CI a
+Progress for CI a now
