@@ -1,1 +1,2 @@
-Welcome to seMethods by Kizito 
+Welcome to seMethods by Kizito <br>
+Progress
