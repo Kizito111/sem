@@ -5,3 +5,5 @@ today        <br> merged into previous CI to
 <br> ![workflow](https://github.com/Kizito111/sem/actions/workflows/main.yml/badge.svg)
 <br> [![LICENSE](https://img.shields.io/github/license/Kizito111/sem.svg?style=flat-square)](https://github.com/<Kizito111>/sem/blob/master/LICENSE)
 <br> [![Releases](https://img.shields.io/github/release/Kizito111/sem/all.svg?style=flat-square)](https://github.com/<Kizito111>/sem/releases)
+
+<br>https://img.shields.io/github/workflow/status/Kizito111/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square
